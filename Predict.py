@@ -169,7 +169,7 @@ class MainWindow(QWidget):
         self.field6 = QLineEdit()
         self.field7 = QLineEdit()
         self.field8 = QLineEdit()
-        form_layout.addRow("DAILY HOUR :", self.field1)
+        form_layout.addRow("ORBITAL(D):", self.field1)
         form_layout.addRow("MASS(EARTH) :", self.field2)
         form_layout.addRow("DISTANCE(AU) :", self.field3)
         form_layout.addRow("ECCENTRICITY :", self.field4)
