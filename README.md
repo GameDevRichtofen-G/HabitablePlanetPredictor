@@ -17,4 +17,4 @@ These values or parameters can be use to predict upcoming outcome.
 * `STELLAR FLUX(EARTH)` : the amount of solar energy (or radiation) a planet receives from its star, relative to the amount Earth receives from the Sun
 
 
-![Example Image]([https://raw.githubusercontent.com/GameDevRichtofen-G/HabitablePlanetPredictor/refs/heads/main/image-s.PNG])
+![Example Image](https://github.com/GameDevRichtofen-G/HabitablePlanetPredictor/blob/main/image-s.PNG)
