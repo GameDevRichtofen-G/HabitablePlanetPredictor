@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-Made model that can predict whether planet is habtiable or not-habitable base on provided values.
+Made model using `tensorflow` that can predict whether planet is habtiable or not-habitable base on provided values.
 These values or parameters can be use to predict upcoming outcome.
 ### `PARAMETERS : `
 
