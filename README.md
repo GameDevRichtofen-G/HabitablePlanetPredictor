@@ -44,11 +44,11 @@ I used TensorFlow to train a binary classification model based on the dataset. T
 ## HOW TO USE 
 1. Install Dependencies  
        Run the following command to install all required packages:  
-       ```sh
+       ```
        pip install -r requirements.txt
        ```
 2. Run the Prediction Script  
        Execute the script with:  
-       ```sh
+       ```
        python Predict.py
        ```
