@@ -3,7 +3,7 @@
 ## ABOUT
 
 Made model using `tensorflow` that can predict whether planet is habtiable or not-habitable base on provided values.
-These values or parameters can be use to predict upcoming outcome.
+These values or parameters can be use to predict upcoming outcome. This project meant to teach me how to use PyQt5.
 ### `PARAMETERS : `
 
 * `MASS(EARTH)` : The mass of the planet in Earth units
