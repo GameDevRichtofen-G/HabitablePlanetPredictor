@@ -36,7 +36,7 @@ The task is to see whether Target is 1(Habitable) or 0(Non-habitable)
 
 
 ## MODEL : 
-I used TensorFlow to train a binary classification model based on the dataset. The model predicts whether a given planet is habitable or not based on the provided input.
+I used Torch and tensorFlow to train a NN binary classification model based on the dataset. The model predicts whether a given planet is habitable or not based on the provided input.
 
 ----------------------------
 ----------------------------
